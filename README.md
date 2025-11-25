@@ -4,9 +4,17 @@ Dante is a single-author blog and portfolio theme for Astro.js. Featuring a mini
 
 ![Dante Astro.js Theme](public/dante-preview.jpg)
 
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JustGoodUI/dante-astro-theme)
+## Deploy
 
-Clicking the button above ☝️ will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+[![Deploy to Tencent EdgeOne Pages](https://img.shields.io/badge/Deploy-Tencent%20EdgeOne%20Pages-006EFF?style=for-the-badge&logo=tencentqq&logoColor=white)](https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fdante-astro-theme&output-directory=dist%2Fclient&build-command=npm+run+build&install-command=npm+install&origin_from=childtom)
+
+The one-click button above clones `nuonuo-888/dante-astro-theme`, installs dependencies with `npm`, runs `npm run build`, and serves the generated `dist/client/` folder automatically on Tencent EdgeOne Pages.
+
+## 👁 Preview
+
+[![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://dante-astro-theme.edgeone.app/)
+
+Visit the preview link above to see a live demo of this theme.
 
 ## Theme Features:
 
